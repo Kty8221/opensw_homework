@@ -1,0 +1,18 @@
+2026-10-17 01:00:33,421 - INFO - vimgolf started
+2026-10-17 01:00:33,421 - INFO - cleaning stale logs
+2026-10-17 01:00:33,422 - INFO - main(['/home/tyk/vimgolf-env/bin/vimgolf', 'put', '5f1063aa8361810006e73210'])
+2026-10-17 01:00:33,422 - INFO - put(5f1063aa8361810006e73210)
+2026-10-17 01:00:35,270 - INFO - play(...)
+2026-10-17 01:02:24,901 - INFO - correct: true
+2026-10-17 01:02:24,901 - INFO - keys: 4GO// Version TODO<Esc>jjO// Debug To<BS>ODO<Esc>zzZZ
+2026-10-17 01:02:24,901 - INFO - score: 42
+2026-10-17 01:03:12,971 - INFO - correct: true
+2026-10-17 01:03:12,971 - INFO - keys: 4GO// Version TODO<Esc>jjO// Debug TODO<Esc>zzZZ
+2026-10-17 01:03:12,971 - INFO - score: 40
+2026-10-17 01:03:53,645 - INFO - correct: false
+2026-10-17 01:03:53,645 - INFO - keys: 4GO// v<CR>zz<BS><BS>ZZ<BS><BS>zz<Esc>zz<Esc>D<CR><CR><CR><CR><Esc>zzAAA<BS><BS><Esc>ZZ
+2026-10-17 01:03:53,645 - INFO - score: 38
+2026-10-17 01:04:17,385 - INFO - correct: false
+2026-10-17 01:04:17,385 - INFO - keys: 4GI<Esc>ZZ
+2026-10-17 01:04:17,385 - INFO - score: 6
+2026-10-17 01:04:20,841 - INFO - exit(0)

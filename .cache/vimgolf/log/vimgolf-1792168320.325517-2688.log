@@ -1,0 +1,12 @@
+2026-10-17 01:32:00,325 - INFO - vimgolf started
+2026-10-17 01:32:00,326 - INFO - cleaning stale logs
+2026-10-17 01:32:00,326 - INFO - main(['/home/tyk/vimgolf-env/bin/vimgolf', 'put', '9v006233d72d000000000219'])
+2026-10-17 01:32:00,326 - INFO - put(9v006233d72d000000000219)
+2026-10-17 01:32:01,768 - INFO - play(...)
+2026-10-17 01:34:05,171 - INFO - correct: true
+2026-10-17 01:34:05,171 - INFO - keys: :%s/ = /=<CR>:%s/\$a + \$b/$((a + b))/<CR>:%s/\$a \* \$b/$((a * b))/<CR><Esc>ZZ
+2026-10-17 01:34:05,171 - INFO - score: 66
+2026-10-17 01:35:54,876 - INFO - correct: true
+2026-10-17 01:35:54,876 - INFO - keys: :%s/ = /=<CR>:%s/$a/$((a<CR>:%s/$b/b))<CR>ZZ
+2026-10-17 01:35:54,876 - INFO - score: 35
+2026-10-17 01:39:51,723 - INFO - exit(0)

@@ -1,0 +1,4 @@
+2026-10-17 00:23:33,986 - INFO - vimgolf started
+2026-10-17 00:23:33,986 - INFO - cleaning stale logs
+2026-10-17 00:23:33,987 - INFO - main(['/home/tyk/vimgolf-env/bin/vimgolf', 'help'])
+2026-10-17 00:23:33,987 - INFO - exit(0)
