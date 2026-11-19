@@ -311,3 +311,50 @@ rm -r private.sh
 clear
 ls
 exit
+cd ~
+pwd
+ls -la
+ls -la project
+ls -la doc
+clear
+git init
+git status
+git add .
+git status
+git commit -m "Initial commit: Opensw homework"
+clear
+git config --global user.name
+git config --global user.email
+git config --global user.name "Kty8221"
+git config --global user.email "xodud97124@naver.com"
+git config --global user.name
+git config --galob user.email
+clear
+git config --global user.name
+git config --global user.email
+git commit -m "Inital commit: Opensw Homework"
+git remote add origin https://github.com/Kty8221/opensw_homework.git
+git branch -M main
+git push -u origin main
+clear
+git push -u origin main
+clear
+mkdir mydir
+cd mydir
+mkdir subdir1 subdir2
+ls
+cd subdir1
+touch file1.txt
+cd ..
+cd subdir2
+touch file2.txt
+cd ..
+find . -maxdepth 3 | sed -e "s/[^-][^\/]*\// |/g" -e "s/|\([^ ]\)/|-\1/"
+cd ~
+tar -cvf mydir.tar mydir
+tar -tvf mydir.tar
+git add .
+git commit -m "Add homework 1"
+git push
+git status
+exit
